@@ -1,0 +1,38 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}
+p {
+    padding:10px;
+    border-radius:10%;
+    background-color:lightgray;
+}
+
+#picture {
+    float: left;
+}
+
+#article {
+    margin-top: 65px;
+
+}
+
+#name {
+    font-weight: bold;
+}
+
+#reviews {
+    clear: both;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+#review {
+    padding:10px;
+    border-radius:10%;
+}
